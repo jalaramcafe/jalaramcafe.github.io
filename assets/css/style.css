@@ -832,6 +832,8 @@ body {
             user-select: none;
   }
 .single_pakeg_text{
+    margin: 0px 10px;
+    width: 100%;
 	background:#fff;
 	padding:30px;
 	text-align:left;
@@ -840,7 +842,7 @@ body {
 .single_pakeg_text ul li{
     padding: 15px 0px 15px 0px;
     text-align:left;
-    margin-top: 20px;
+    margin-top: 2px;
 	
 }
 
